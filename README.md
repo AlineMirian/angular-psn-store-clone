@@ -1,27 +1,43 @@
-# Store
+# 🎮 PlayStation Store Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Clone da interface da PlayStation Store desenvolvido com Angular 14, apresentando catálogo personalizado de jogos PS5.
 
-## Development server
+## 🚀 Tecnologias
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular 
+- TypeScript
+- HTML5 / CSS3
+- Component-based Architecture
 
-## Code scaffolding
+## 📦 Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- ✅ Catálogo de jogos moderno (2023-2024)
+- ✅ Cards interativos com hover effects
+- ✅ Labels de categoria (Exclusive, Best Seller, New)
+- ✅ Design responsivo
+- ✅ Layout grid otimizado
 
-## Build
+## 🎯 Jogos em Destaque
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Spider-Man 2 (PS5 Exclusive)
+- Baldur's Gate 3 (GOTY 2023)
+- Helldivers 2
+- Final Fantasy VII Rebirth
+- Stellar Blade
 
-## Running unit tests
+## 💻 Como Executar
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+npm install
+ng serve
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Acesse: `http://localhost:4200`
 
-## Further help
+## 📚 Bootcamp
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Projeto desenvolvido durante o **Santander Bootcamp 2023 - Fullstack Java+Angular** da DIO com Fork do projeto principal.
+
+## 👨‍💻 Autor
+
+**Aline Mirian**
+- GitHub: [@AlineMirian](https://github.com/AlineMirian)
